@@ -1,0 +1,53 @@
+ input{
+    width:75%;
+    font-size: 1.2rem;
+    padding:8px 4px;
+    margin:8px 0;
+    border-radius: 8px;
+  }
+  .btn{
+    display: block;
+    width: 50%;
+    justify-content: center;
+    font-size: 1.2rem;
+    margin:8px 0;
+    padding:10px 0;
+    background-color: #333;
+    color:#fff;
+    border: 1px solid #333;
+    border-radius: 8px;
+    cursor: pointer;
+  }
+  .btn-outline{
+    background-color: #fff;
+    color:#333;
+  }
+  .center{
+    text-align: center;
+    margin: 24px 0;
+  }
+  p{
+    margin: 10px 0;
+  }
+  .img-container{
+    text-align: center;
+  }
+  .img-container img{
+    height:200px;
+  }
+  #bmi{
+    align-items: center;
+    justify-content: center;
+    height: 700px;
+    width: 500px ;
+    background-color: #f8f8f89c;
+  }
+  .Kiran{
+    background-image: url("../Harsha/Images/BMI1.jpg");
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-position: center;
+    display:flex;
+    /* height:100vh; */
+  }
+ 

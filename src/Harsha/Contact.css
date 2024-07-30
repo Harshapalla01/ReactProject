@@ -1,0 +1,11 @@
+.Contact{
+  background-size:cover;
+  background-repeat:no-repeat;
+  height:650px;
+}
+.bg{
+  background-image: url("../Harsha/Images/contactus.jpg");
+  background-repeat : no-repeat;
+  background-size: cover;
+
+}

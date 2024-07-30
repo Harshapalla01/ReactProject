@@ -1,0 +1,16 @@
+b{
+    color:white;
+    padding: 30px;
+    font-size: 18px;
+}
+.dropdown-item{
+    color:white;
+    background-color: teal;
+    font-size: 15px;
+    /* rgba(76, 28, 250, 0.829); */
+}
+    
+#back{
+/* background-color: rgba(76, 28, 250, 0.829); */
+background-color: teal;
+}

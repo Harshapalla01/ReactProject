@@ -1,0 +1,62 @@
+[
+    {
+      "idCategory": "1",
+      "strCategory": "Beef",
+      "strCategoryThumb": "https://www.themealdb.com/images/category/beef.png",
+      "strArea":"india"
+      },
+    {
+      "idCategory": "2",
+      "strCategory": "Chicken",
+      "strCategoryThumb": "https://www.themealdb.com/images/category/chicken.png",
+      "strArea":"American"
+     },
+    {
+      "idCategory": "3",
+      "strCategory": "Dessert",
+      "strCategoryThumb": "https://www.themealdb.com/images/category/dessert.png",
+      "strArea":"British"
+       },
+    {
+      "idCategory": "4",
+      "strCategory": "Lamb",
+      "strCategoryThumb": "https://www.themealdb.com/images/category/lamb.png",
+      "strArea":"japanese"
+     },
+    {
+      "idCategory": "5",
+      "strCategory": "Miscellaneous",
+      "strCategoryThumb": "https://www.themealdb.com/images/category/miscellaneous.png",
+      "strArea":"italian"
+     },
+    {
+      "idCategory": "6",
+      "strCategory": "Pasta",
+      "strCategoryThumb": "https://www.themealdb.com/images/category/pasta.png",
+      "strArea":"Greek"
+      },
+    {
+      "idCategory": "7",
+      "strCategory": "Pork",
+      "strCategoryThumb": "https://www.themealdb.com/images/category/pork.png",
+      "strArea":"Mexican"
+     },
+    {
+      "idCategory": "8",
+      "strCategory": "Seafood",
+      "strCategoryThumb": "https://www.themealdb.com/images/category/seafood.png",
+      "strArea":"india"
+      },
+    {
+      "idCategory": "9",
+      "strCategory": "Side",
+      "strCategoryThumb": "https://www.themealdb.com/images/category/side.png",
+      "strArea":"chinese"
+     },
+    {
+      "idCategory": "10",
+      "strCategory": "Starter",
+      "strCategoryThumb": "https://www.themealdb.com/images/category/starter.png",
+      "strArea":"portuguese"
+      }
+  ]
